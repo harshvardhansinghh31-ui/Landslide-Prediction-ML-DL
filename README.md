@@ -32,7 +32,7 @@ python src/evaluate.py
 
 ## Results
 Summarize key results here, e.g. best-performing model and metrics,
-along with any relevant plots (confusion matrix, ROC curve, susceptibility map).
+along with any relevant plots (confusion matrix, ROC curve, susceptibility map)
 
 ## Tech Stack
 - Python
